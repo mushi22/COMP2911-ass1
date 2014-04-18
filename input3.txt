@@ -1,0 +1,19 @@
+Hotel Airen 101 2
+Hotel Airen 102 3
+Hotel Airen 103 2
+Hotel Sohaib 100 2
+Hotel Sohaib 103 1
+Hotel Youhan 100 2
+Hotel Youhan 101 2
+Hotel Cherry 101 1
+Hotel Cherry 102 2
+Hotel Cherry 103 3
+Book Michael Jan 25 2 single 1 double 1 triple 1
+Book Albert Jan 24 4 double 1 single 2
+Book Carol Jan 26 1 double 2
+Change Alan Quality 100 Jan 25 2 Jan 27 3 double
+Cancel Bill Airen 101 Jan 23 1
+Print Airen
+Print Sohaib
+Print Cherry
+Print Youhan

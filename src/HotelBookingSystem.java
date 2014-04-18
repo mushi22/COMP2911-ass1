@@ -2,6 +2,12 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.Scanner;
 
+
+/**
+ * The main class which has scanner for reading input
+ * @author sohaibmushtaq
+ *
+ */
 public class HotelBookingSystem {
   public static void main(String[] args) {
     if (args.length != 1) {

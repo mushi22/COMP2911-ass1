@@ -1,0 +1,10 @@
+Cherry 101 102 103
+Booking Rejected
+Airen 101 103
+Change Rejected
+Cancellation rejected
+Airen 101 Jan 26 1 Carol
+Airen 103 Jan 26 1 Carol
+Cherry 101 Jan 25 2 Michael
+Cherry 102 Jan 25 2 Michael
+Cherry 103 Jan 25 2 Michael

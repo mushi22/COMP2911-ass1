@@ -7,12 +7,24 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Locale;
 
+/**
+ * The booking period sets the booking time in calendar
+ * @author sohaibmushtaq
+ *
+ */
+
 public class BookingPeriod {
   private static final int DEFAULT_YEAR = 2014;
 
   private int nights;
   private Calendar start;
 
+  /**
+   * The function uses month, day and nights an generates values in calendar class
+   * @param month
+   * @param day
+   * @param nights
+   */
   public BookingPeriod(String month, int day, int nights) {
     Date date;
 
@@ -31,6 +43,10 @@ public class BookingPeriod {
     this.nights = nights;
   }
 
+  /**
+   * This function gets the dates for booking
+   * @return date
+   */
   public List<Calendar> getDates() {
     List<Calendar> dates = new LinkedList<Calendar>();
     Calendar tmp = (Calendar) this.start.clone();

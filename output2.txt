@@ -1,0 +1,13 @@
+A 101 102
+Booking Rejected
+Booking Rejected
+B 10 11
+A 102
+Reservation cancelled
+A 101 Jan 31 1 James
+A 101 Feb 02 1 James
+A 102 Jan 31 3 James
+A 102 Oct 26 3 Andrew
+B 10 Sep 24 2 Andrew
+B 10 Sep 28 1 Andrew
+B 11 Sep 24 5 Andrew

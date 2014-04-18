@@ -1,0 +1,34 @@
+Sahara 104 101
+Sahara 102 105 109 101
+Sahara 103 106
+Sahara 103 106 107 110
+Sahara 101 Jan 25 2 Alan
+Sahara 101 Feb 01 4 Bill
+Sahara 102 Feb 01 4 Bill
+Sahara 103 Jan 26 1 Carol
+Sahara 103 Feb 03 4 Dennis
+Sahara 104 Jan 25 2 Alan
+Sahara 105 Feb 01 4 Bill
+Sahara 106 Jan 26 1 Carol
+Sahara 106 Feb 03 4 Dennis
+Sahara 107 Feb 03 4 Dennis
+Sahara 109 Feb 01 4 Bill
+Sahara 110 Feb 03 4 Dennis
+Reservation cancelled
+Cancellation rejected
+Sahara 104
+Sahara 101 Jan 25 2 Alan
+Sahara 101 Feb 01 4 Bill
+Sahara 102 Feb 01 1 Bill
+Sahara 102 Feb 03 2 Bill
+Sahara 103 Jan 26 1 Carol
+Sahara 103 Feb 03 4 Dennis
+Sahara 104 Jan 25 2 Alan
+Sahara 104 Feb 02 1 Bill
+Sahara 105 Feb 01 4 Bill
+Sahara 106 Jan 26 1 Carol
+Sahara 106 Feb 03 4 Dennis
+Sahara 107 Feb 03 1 Dennis
+Sahara 107 Feb 06 1 Dennis
+Sahara 109 Feb 01 4 Bill
+Sahara 110 Feb 03 4 Dennis

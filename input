@@ -1,14 +1,17 @@
-Hotel Sahara 101 2
-Hotel Sahara 102 3
-Hotel Sahara 103 2
-Hotel Quality 100 2
-Hotel Quality 103 1
-Hotel Victoria 100 2
-Hotel Victoria 101 2
-Hotel Scenic 101 1
-Book Alan Jan 25 2 single 1 double 1
-Book Bill Jan 24 4 double 1
-Book Carol Jan 26 1 double 2
-Change Alan Quality 100 Jan 25 2 Jan 27 3 double
-Cancel Bill Sahara 101 Jan 23 1
-Print Sahara
+Hotel A 101 1
+Hotel A 102 2
+Hotel A 103 3
+Hotel A 104 1
+Hotel B 10 3
+Hotel B 11 3
+Hotel B 12 2
+Hotel Useless 0 1
+Book Wob Jan 31 3 single 1 double 1
+Book Cke Aug 10 10 triple 3
+Book AwwNuu Jan 31 100 single 1 double 1
+Book AwwYiss Sep 24 5 triple 2
+Change AwwYiss B 10 Sep 26 2 Oct 26 3 double
+Cancel Wob A 101 Feb 1 1
+Print A
+Print B
+Print Useless

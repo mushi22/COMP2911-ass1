@@ -1,0 +1,25 @@
+Hotel Sahara 101 2
+Hotel Sahara 102 3
+Hotel Sahara 103 2
+Hotel Sahara 104 1
+Hotel Sahara 105 3
+Hotel Sahara 106 2
+Hotel Sahara 107 2
+Hotel Sahara 108 1
+Hotel Sahara 109 3
+Hotel Sahara 110 2
+Hotel Sahara 111 2
+Hotel Quality 100 2
+Hotel Quality 103 1
+Hotel Victoria 100 2
+Hotel Victoria 101 2
+Hotel Scenic 101 1
+Book Alan Jan 25 2 single 1 double 1
+Book Bill Feb 1 4 triple 3 double 1
+Book Carol Jan 26 1 double 2
+Book Dennis Feb 3 4 double 4
+Print Sahara
+Cancel Dennis Sahara 107 Feb 4 2
+Cancel Bill Quality 103 Jan 26 1
+Change Bill Sahara 102 Feb 2 1 Feb 2 1 single
+Print Sahara
